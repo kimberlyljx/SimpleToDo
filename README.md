@@ -1,4 +1,4 @@
-# Pre-work - To Do
+# To Do
 
 To Do is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -10,9 +10,9 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is completed:
 
-* [Yes] User can **successfully add and remove items** from the todo list
-* [Yes] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list.
-* [Yes] User can **persist todo items** and retrieve them properly on app restart
+* [x] User can **successfully add and remove items** from the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list.
+* [x] User can **persist todo items** and retrieve them properly on app restart
 
 The following **optional** features are implemented:
 
@@ -31,9 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="SQms7K1"><a href="//imgur.com/SQms7K1">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<img src="http://i.imgur.com/SQms7K1.gifv" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="SQms7K1"><a href="//imgur.com/SQms7K1">Video Walkthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
